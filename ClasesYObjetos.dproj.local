@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023/06/16 07:47:16.235,=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/06/16 07:52:55.317,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10ClasesYObjetos.dfm=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/06/16 07:52:55.317,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10ClasesYObjetos.pas=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/06/16 07:53:05.941,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\ClasesYObjetos.dproj=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2023/06/16 07:47:16.000.235,=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 07:52:55.000.317,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10ClasesYObjetos.dfm=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/16 07:52:55.000.317,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10ClasesYObjetos.pas=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 07:53:05.000.941,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\ClasesYObjetos.dproj=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/16 08:06:42.652,=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10\Unit1.pas</Transaction>
+    <Transaction>2023/06/16 08:16:18.091,C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10\Clases\mCirculo.pas=C:\Users\LAB45-ESTUDIANTE\Documents\Embarcadero\Studio\Projects\Lab10\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

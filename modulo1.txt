@@ -1,0 +1,42 @@
+unit mCirculo;
+
+interface
+uses vcl.Graphics;
+      //*IMPORTANT
+      //LAS CLASES ENCAPSULAN DATOS, CON ESTOS DATOS ES CON LOS QUE SE TRABAJA
+      //UTILIZA VARIABLES A NIVEL PRIVADO, LOCAL Y PÚBLICO
+    type
+    Circulo=Class
+      private
+      x,y:integer;
+      r:word;
+      c:TColor;
+      public
+          constructor Create;//constructor
+
+          //creacion del procedure
+          //esto es el constructor de la clase , estos ponen
+
+          //modificadores
+          procedure SetPosicion(px,py:integer);
+          procedure SetRadio(pr:word);
+          procedure SetColor(pc:TColor);
+
+          //selectores
+          function GetX:integer;
+          function GetY:integer;
+          function GetRadio:Word;
+          function GetColor:TColor;
+
+          //otros mètodos
+          procedure Mostrar(c:TCanvas);//TCanvas es un área de dibujo
+          procedure Borrar(c:TCanvas);//
+          //destructor destroy
+
+
+
+    End;
+
+implementation
+
+end.
